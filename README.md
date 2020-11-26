@@ -1,7 +1,8 @@
 # Rebound
 3D Game made using Unreal Engine. 
 Watch a demo here:
-[(https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=zweecBTWkmY&ab_channel=MJM288)
+[![Rebound Demo](https://img.youtube.com/vi/zweecBTWkmY/0.jpg)](https://www.youtube.com/watch?v=zweecBTWkmY)
+
 # How The Game Works
 The player has to shoot as many balls as they can without getting hit by them. 
 The balls have projective physics and can bounce off of collisions, hence the name 'Rebound'.
